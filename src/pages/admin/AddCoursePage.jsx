@@ -163,4 +163,5 @@ const AddCoursePage = () => {
     );
 };
 
+
 export default AddCoursePage;
